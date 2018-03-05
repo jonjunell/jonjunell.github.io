@@ -1,17 +1,16 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: Blog
+description: My blog for PowerShell, IT Managment and hope for DevOps
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://jonjunell.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
+twitter: jonhikes
+github:  jonjunell
 
 #Additional Pages
 about: about
@@ -23,7 +22,7 @@ permalink: /:title
 
 
 # Google Analytics
-analytics_id: ""
+# analytics_id: ""
 
 # Build settings
 markdown: kramdown
