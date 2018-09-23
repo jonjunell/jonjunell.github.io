@@ -6,7 +6,7 @@ tags: infrastructure cloud people
 author: jon
 ---
 
-# You can't Iterate a Waterfall
+# Agility Submurged!
 
 ## Overview
 
