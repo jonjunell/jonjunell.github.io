@@ -26,8 +26,8 @@ Ellucian, the provider of Banner is upgrading to a newish architechture, where t
 
 ## Deeper Dives
 
-* [You Can't Iterate a Waterfall](https://jonjunell.github.io/2018-09-10-waterfall.html)
-* [Enterprise over IP](https://jonjunell.github.io/2018-09-11-vpn.html)
-* [Coping with Infinity](https://jonjunell.github.io/2018-09-12-cloud.html)
+* [You Can't Iterate a Waterfall](https://jonjunell.github.io/waterfall.html)
+* [Enterprise over IP](https://jonjunell.github.io/vpn.html)
+* [Coping with Infinity](https://jonjunell.github.io/cloud.html)
 
 [back](./)
