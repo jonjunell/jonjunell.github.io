@@ -13,7 +13,7 @@ layout: default
 
 ## You can't iterate a waterfall
 
-[What do you mean you have to test and rebuild?](https://jonjunell.github.io/2018-09-10-waterfall.html)
+[What do you mean you have to test and rebuild?](https://jonjunell.github.io/waterfall.html)
 
 ## Enterprise over IP
 
