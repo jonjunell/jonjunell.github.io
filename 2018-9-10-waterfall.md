@@ -33,3 +33,5 @@ We'd meet the time and things would "work".  This introduced latency in the syst
 Be clear!
 
 Articulate, very clearly, what is required for the technical challenges to be overcome.  Don't settle for a green line, settle for clear, informed timelines, otherwise, you're buying more on-premise hardward, or more than you planned to have.  IaaS vs. a Container eats up a lot more resources.
+
+[back](./)
