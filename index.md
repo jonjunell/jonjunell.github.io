@@ -17,8 +17,8 @@ layout: default
 
 ## Enterprise over IP
 
-[What's a VPN?](https://jonjunell.github.io/2018-09-11-vpn.html)
+[What's a VPN?](https://jonjunell.github.io/vpn.html)
 
 ## Coping with Infinity
 
-[All the servers..are built?](https://jonjunell.github.io/2018-09-12-vpn.html)
+[All the servers..are built?](https://jonjunell.github.io/cloud.html)
