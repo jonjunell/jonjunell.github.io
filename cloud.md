@@ -6,6 +6,8 @@ tags: infrastructure cloud people
 author: jon
 ---
 
-# Coping with Infinity
+# The Cloud Is Big
+
+This is a rather unfinished thought about how when you take the time to generate resources in the cloud, you can do a lot really fast and business processess and controls can be miles away.
 
 [back](./)

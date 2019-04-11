@@ -9,7 +9,7 @@ layout: default
 
 ## Challenges of a Cloud Migration
 
-[Or what happend to 2018](https://jonjunell.github.io/2018-08-10-cloudy.html)
+[Or what happend to 2018](https://jonjunell.github.io/cloudy.html)
 
 ## You can't iterate a waterfall
 
@@ -22,3 +22,7 @@ layout: default
 ## Coping with Infinity
 
 [All the servers..are built?](https://jonjunell.github.io/cloud.html)
+
+## Connectivity in 2019
+
+[Where Do You Put Your Fast Lane?](https://jonjunell.github.io/10gbe.html)
